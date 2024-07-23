@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(224, 113, 113);
+
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 150px;
+}
+
+.button {
+  background-image: url(./images/front-view-cute-little-baby-boy-cupcake-teddybear.jpg);
+  object-fit: cover;
+  background-size: cover;
+  position: absolute;
+  color: blue;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+
+
+
+}
